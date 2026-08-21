@@ -14,6 +14,7 @@ The script (`guide_robot.py`) runs two things in lockstep, updated every animati
 Both halves are tied together in `IntegratedSystem`, which owns the matplotlib figure, the video capture, the YOLO model, and the arm instance.
 
 ---
+##Demo Video
 
 ## Features
 
