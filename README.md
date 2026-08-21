@@ -14,8 +14,9 @@ The script (`guide_robot.py`) runs two things in lockstep, updated every animati
 Both halves are tied together in `IntegratedSystem`, which owns the matplotlib figure, the video capture, the YOLO model, and the arm instance.
 
 ---
-##Demo Video
+## Demo video
 
+[![Watch the demo](https://www.youtube.com/watch?v=UF1OJxMLup8/hqdefault.jpg)](https://www.youtube.com/watch?v=UF1OJxMLup8)
 ## Features
 
 - Real-time object detection and localization using a custom-trained YOLO model (`v11nb.pt`)
